@@ -1,12 +1,11 @@
 ---
-date: '2020-09-21'
-title: 'Member'
-company: 'DSV - SVVV'
-location: remote
-range: 'Sep 2020 - Present'
-url: 'https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/'
+date: '2022-09-01'
+title: 'Media Technician'
+company: 'Shoreline Community College'
+location: In-Person
+range: 'Sept 2022 - June 2023'
+url: 'https://www.shoreline.edu/'
 ---
 
-- Grown knowledge in a peer-to-peer learning environment.
-- Build solutions for local businesses and the community.
-- Attained several technical workshops.
+- Assess and troubleshoot computer problems brought by students, clubs, and faculty
+- Ensured seamless audiovisual production and technical support for massive campus events

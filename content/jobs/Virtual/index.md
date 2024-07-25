@@ -1,14 +1,12 @@
 ---
-date: '2020-07-01'
-title: 'Virtual Internship Experience'
-company: 'Forage'
+date: '2024-07-22'
+title: 'Software Engineer Fellowship'
+company: 'Headstarter'
 location: remote
-range: 'July 2020 - May 2021'
-url: 'https://www.theforage.com/'
+range: 'July 2024 - Aug 2024'
+url: 'https://headstarter.co/'
 ---
 
-- Microsoft - Engineering Virtual Experience [CERTIFICATE](https://insidesherpa.s3.amazonaws.com/completion-certificates/Microsoft/ms2CK9b2SCWGXwPMS_Microsoft_nXPiDeZbPmvKvvjHA_completion_certificate.pdf)
-- Deloitte - Technology Consulting Virtual Internship [CERTIFICATE](https://insidesherpa.s3.amazonaws.com/completion-certificates/Deloitte/FqFtWwQzNxJ8Qsh5H_Deloitte_nXPiDeZbPmvKvvjHA_completion_certificate.pdf)
-- JPMorgan Chase & Co. Software Engineering Virtual Experience [CERTIFICATE](https://insidesherpa.s3.amazonaws.com/completion-certificates/JP%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_nXPiDeZbPmvKvvjHA_completion_certificate.pdf)
-- KPMG - Data Analytics Consulting Virtual Internship [CERTIFICATE](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_nXPiDeZbPmvKvvjHA_completion_certificate.pdf)
-- Y Combinator Virtual Experience [CERTIFICATE](https://drive.google.com/file/d/1btrRl7BWopLhOWudEI1RTOSl7qsCl-yS/view)
+- Built 5+ AI apps and APIs using NextJS, OpenAI, Pinecone, StripeAPI with 98% accuracy as seen by 1000 users
+- Developed projects from design to deployment leading 4+ engineering fellows using MVC design patterns
+- Coached by Amazon, Bloomberg, and Capital One engineers on Agile, CI/CD, Git, and microservice patterns
