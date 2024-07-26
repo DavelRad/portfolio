@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'gatsby';
+import { Link, withPrefix } from 'gatsby';
 import PropTypes from 'prop-types';
 import { navLinks } from '@config';
 import styled from 'styled-components';
@@ -109,7 +109,7 @@ const Menu = ({ menuOpen, toggleMenu }) => {
               ))}
           </NavList>
           <ResumeLink
-            href="/SJSU-Davel-Resume.pdf"
+            href={withPrefix('/SJSU-Davel-Resume.pdf')}
             target="_blank"
             rel="nofollow noopener noreferrer"
           >
