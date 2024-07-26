@@ -1,15 +1,16 @@
 ---
 date: '4'
-title: 'AI Face Landmark Detection'
-cover: 'face-landmark.png'
-github: 'https://github.com/yashitanamdeo/face-landmark-detection'
-external: 'https://yashitanamdeo.github.io/face-landmark-detection/'
+title: 'Scam Detect'
+cover: 'demo1.png'
+github: 'https://github.com/DavelRad/Scam-Detector'
+external: 'https://drive.google.com/file/d/1cPLTNk8bvMc3O2PgxW7PHbQvkDp5TYXy/view'
 tech:
-  - TensorFlow.JS
-  - React
+  - Python
+  - OpenAI
+  - Google Speech API
+  - Panel
+
 showInProjects: true
 ---
 
-Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on.
-
-Inspired by Nicholas Renotte's [Youtube Tutorial](https://www.youtube.com/watch?v=7lXYGDVHUNw).
+Capturing first place at a [Leaner Startup's Hackathon](https://www.linkedin.com/posts/davelradindra_congrats-congratulations-ai-activity-7067640610014302208-PoRz?utm_source=share&utm_medium=member_desktop), our team dynamically created "Scam Detect," a pivotal full-stack web application crafted to protect the elderly and minorities from tech scams. By integrating Python in the backend and the responsive Panel framework for the frontend, we engineered the application to transcribe and analyze call audios. It actively evaluates the content using a specially trained OpenAI model, calculating and displaying the likelihood of scams in real-time percentages, thus empowering users to recognize and avoid fraudulent interactions effectively.

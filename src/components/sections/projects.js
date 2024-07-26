@@ -145,6 +145,7 @@ const Projects = ({ data }) => {
 
   return (
     <StyledContainer>
+      {/* 
       <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
       <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
         View Complete List of Projects/Codes
@@ -219,6 +220,7 @@ const Projects = ({ data }) => {
       <StyledMoreButton onClick={() => setShowMore(!showMore)}>
         Show {showMore ? 'Less' : 'More'}
       </StyledMoreButton>
+    */}
     </StyledContainer>
   );
 };

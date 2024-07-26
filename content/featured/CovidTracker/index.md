@@ -1,18 +1,15 @@
 ---
 date: '1'
-title: 'Covid-19 Tracker'
-cover: 'demo1.png'
-github: 'https://github.com/yashitanamdeo/Covid19-tracker'
-external: 'https://covid19-tracker-84ef4.web.app/'
+title: 'Joes Pizza HTTP Server'
+cover: 'demo3.png'
+github: 'https://github.com/DavelRad/HTTP-Joes-Pizza'
+external: 'https://drive.google.com/file/d/1z-tBCNUM8iD8PjtMWzk6B_IfJXFjMr0r/view?usp=drive_link'
 tech:
-  - ReactJS
-  - Firebase
-  - Material UI
+  - C
+  - TCP & HTTP
+  - POSIX Threads
 
 showInProjects: true
 ---
 
-Designed and implemented React-based Web Application to monitor live corona cases, recoveries, and
-deaths(clickable tabs) in 180+ countries worldwide. Directed to display 2 features – worldwide cases and countries based report; clickable markers on the map to show country stats and line chart for fluctuations over days, on hover, gives exact figures.
-
-Inspired by Clever Programmer's [Youtube Channel](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).
+This project involved building an HTTP server from scratch using the C programming language to deepen our understanding of web technologies and network programming. By employing TCP for reliable data transmission and focusing on the HTTP 0.9 protocol, our server efficiently handles multiple concurrent requests through multi-threading with pthread.h and socket programming with sys/socket.h. This hands-on experience not only enhanced our skills in managing server-client communications but also provided practical insights into the foundational technologies that power the internet.
