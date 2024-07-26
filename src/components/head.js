@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import config from '@config';
 import favicon from '@images/favicons/favicon.ico';
-import ogImage from '@images/og.png';
+import ogImage from '../images/og.png';
 import appleIcon57x57 from '@images/favicons/apple-icon-57x57.png';
 import appleIcon60x60 from '@images/favicons/apple-icon-60x60.png';
 import appleIcon72x72 from '@images/favicons/apple-icon-72x72.png';
@@ -21,7 +21,7 @@ import msIcon144x144 from '@images/favicons/ms-icon-144x144.png';
 
 const Head = ({ metadata }) => (
   <Helmet>
-    <html lang="en" prefix="og: http://ogp.me/ns#" />
+    <html lang="en" xmlns="http://www.w3.org/1999/xhtml" />
     <title itemProp="name" lang="en">
       {metadata.title}
     </title>
