@@ -113,7 +113,7 @@ const Menu = ({ menuOpen, toggleMenu }) => {
             target="_blank"
             rel="nofollow noopener noreferrer"
           >
-            Resume
+            Resum
           </ResumeLink>
         </NavLinks>
       </Sidebar>
