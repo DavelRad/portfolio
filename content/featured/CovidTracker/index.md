@@ -1,15 +1,14 @@
 ---
 date: '1'
-title: 'Joes Pizza HTTP Server'
-cover: 'demo3.png'
-github: 'https://github.com/DavelRad/HTTP-Joes-Pizza'
-external: 'https://drive.google.com/file/d/1z-tBCNUM8iD8PjtMWzk6B_IfJXFjMr0r/view?usp=drive_link'
+title: 'Message Board'
+cover: 'message-board-demo.png'
+github: 'https://github.com/uni-dos/message-board'
+external: 'https://www.youtube.com/watch?v=s_fljaCSsWw'
 tech:
-  - C
-  - TCP & HTTP
-  - POSIX Threads
-
+  - Java
+  - JavaFX
+  - MySQL
 showInProjects: true
 ---
 
-This project involved building an HTTP server from scratch using the C programming language to deepen our understanding of web technologies and network programming. By employing TCP for reliable data transmission and focusing on the HTTP 0.9 protocol, our server efficiently handles multiple concurrent requests through multi-threading with pthread.h and socket programming with sys/socket.h. This hands-on experience not only enhanced our skills in managing server-client communications but also provided practical insights into the foundational technologies that power the internet.
+This Java-based Message Board application was designed to foster community-driven discussions in a structured and interactive platform. The project utilized JavaFX for a seamless and intuitive user interface, while MySQL was employed to ensure robust data management and integrity. Key features of the application include dynamic commenting, post voting systems, and advanced moderation tools, inspired by Reddit's community engagement model. The development process emphasized creating an optimized user experience, with a focus on real-time interactions and secure data handling. The collaborative effort resulted in a powerful communication tool that has been well-received for its functionality and user-centric design.

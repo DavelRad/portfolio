@@ -62,6 +62,7 @@
     "react-helmet": "^5.2.1",
     "react-transition-group": "^4.3.0",
     "scrollreveal": "^4.0.5",
+    "sharp": "^0.33.4",
     "smooth-scroll": "^16.1.0",
     "styled-components": "^4.4.0"
   },

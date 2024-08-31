@@ -1,15 +1,18 @@
 ---
 date: '3'
-title: 'Media Player'
-cover: './disneyclone.png'
-github: 'https://github.com/DavelRad/Media-Player-Project'
-external: 'https://www.youtube.com/watch?v=f-wv9uhuLlU'
+title: 'HoloChat'
+cover: './AI-Support-Screenshot.png'
+github: 'https://github.com/DavelRad/HoloChat'
+external: 'https://www.youtube.com/watch?v=t6njzBo5tko'
 tech:
-  - Java
-  - JavaFX
-  - FXML
-  - CSS
+  - Next.js
+  - React
+  - Vercel
+  - Firebase
+  - HuggingFace
+  - Pinecone
+  - OpenRouter
 showInProjects: true
 ---
 
-Our Java-based media player project aimed to simplify and enhance multimedia consumption on multiple operating systems including Windows, Mac OS X, and Linux. The team utilized JavaFX to build a user-friendly interface through FXML and Scene Builder, ensuring the application was accessible and functional for a wide range of users. Key features of the media player include intuitive media controls, real-time subtitle synchronization, and customizable playback options. Throughout the project, we focused on integrating advanced user functionalities while maintaining ease of use. The collaborative effort resulted in a robust application, demonstrated effectively in our comprehensive YouTube presentation.
+Our Next.js-based HoloChat app was designed to revolutionize customer support by providing intelligent, context-aware interactions across various platforms. The development team leveraged cutting-edge technologies, including OpenRouter and Hugging Face with Llama LLM, to create a highly responsive and engaging chatbot. Key features of HoloChat include distinct AI personas like Lani the Llama, Byte the Tech Owl, and Myra the Myth Weaver, each specializing in different query types, ensuring users receive tailored and interactive experiences. The app also integrates Retrieval Augmented Generation (RAG) to deliver precise, knowledge base-driven responses. Our focus throughout the project was on enhancing user engagement and satisfaction while maintaining high accuracy and relevance in responses. The successful deployment of HoloChat has been well-received, showcasing its effectiveness in real-world scenarios.
