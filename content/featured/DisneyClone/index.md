@@ -1,7 +1,7 @@
 ---
-date: '2'
+date: '1'
 title: 'Expense Tracker'
-cover: './demo2.png'
+cover: './demo.png'
 github: 'https://github.com/DavelRad/ExpenseTracker'
 external: 'https://github.com/DavelRad/ExpenseTracker'
 tech:

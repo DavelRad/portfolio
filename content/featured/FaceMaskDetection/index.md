@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'HoloChat'
 cover: './AI-Support-Screenshot.png'
 github: 'https://github.com/DavelRad/HoloChat'
